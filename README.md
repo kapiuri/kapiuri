@@ -7,31 +7,19 @@
 
 ## ⚔️ Skills
 
-- **Languages and Technologies:**
-  - Python 🐍
-  - JavaScript 💀
-  - PHP 🦠
-  - HTML 🧩
-  - CSS 🎨
+- **Languages and Technologies:**                  - **Frameworks and Libraries:**
+  - Python 🐍                                        - **Frontend:**
+  - JavaScript 💀                                      - Bootstrap 🚀
+  - PHP 🦠                                             - Tailwind CSS 🌀
+  - HTML 🧩                                           - **Server:**                                   
+  - CSS 🎨                                              - Apache 🕵️
 
-- **Frameworks and Libraries:**
-  - **Frontend:**
-    - Bootstrap 🚀
-    - Tailwind CSS 🌀
-  - **Server:**
-    - Apache 🕵️
-
-- **Tools and Environments:**
-  - GitHub 🔪
-  - VS Code 👻
-  - Visual Studio Code 💻
-  - Windows 🪟
+- **Tools and Environments:**                       - **Databases:**
+  - GitHub 🔪                                        - MySQL 🗃️
+  - VS Code 👻                                       - MariaDB 🗄️
+  - Visual Studio Code 💻                            - SQL Server 🖥️  
+  - Windows 🪟                                      
   - Linux 🐧
-
-- **Databases:**
-  - MySQL 🗃️
-  - MariaDB 🗄️
-  - SQL Server 🖥️
 
 - **Soft Skills:**
   - Problem Solving 🧩
