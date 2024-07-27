@@ -1,3 +1,7 @@
+## 🎓 Education
+
+- **Network Systems Administration** 🌐
+- **Microcomputer Systems and Networks** 💻
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lapiuri) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/kapiuri) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/kapiuri) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/pablo_kappa) 
