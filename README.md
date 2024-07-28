@@ -2,6 +2,8 @@
 
 ![mickey-mouse-the-haunted-house-skull-22porrvn98a0vkrm](https://github.com/user-attachments/assets/995a85bf-af11-4588-a017-543ef0d642b4)
 
+![8ee04d1dd352e1395cd1134986f48cf9abae1e52_00](https://github.com/user-attachments/assets/bd44c410-7114-4b9d-968e-977d1318d2c4)
+
 
 ## 🎓 Education
 
