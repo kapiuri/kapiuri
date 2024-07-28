@@ -1,6 +1,6 @@
 # 👾 Welcome to My GitHub Profile👾
 
-![89e083ff9f21f4d54899e602034c007f](https://github.com/user-attachments/assets/9809ab81-9d1a-4204-b580-14d1cbf064f0)
+![89e083ff9f21f4d54899e602034c007f](https://github.com/user-attachments/assets/16269e30-62c8-41f4-9a18-3c0e598124df)
 
 ![8ee04d1dd352e1395cd1134986f48cf9abae1e52)](https://github.com/user-attachments/assets/6fc1c2c1-a00b-4c72-a9c1-02ed332b17e8)
 
