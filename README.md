@@ -1,7 +1,7 @@
 # 👾 Welcome to My GitHub Profile👾
 
 <div id="header" align="center">
-  <img src="[https://media.giphy.com/media/HQHwvSBSy7s0AXOlWt/giphy.gi](https://tenor.com/bQ7vO.gif)f" width="200"/>
+  <img src="https://tenor.com/bQ7vO.gif" width="200"/>
 </div>
 
 ## 🎓 Education
