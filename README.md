@@ -1,5 +1,6 @@
 # 👾 Welcome to My GitHub Profile👾
 
+![mickey-mouse-the-haunted-house-skull-22porrvn98a0vkrm](https://github.com/user-attachments/assets/995a85bf-af11-4588-a017-543ef0d642b4)
 
 
 ## 🎓 Education
