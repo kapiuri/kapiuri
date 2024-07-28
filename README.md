@@ -1,5 +1,9 @@
 # 👾 Welcome to My GitHub Profile👾
 
+<div id="header" align="center">
+  <img src="[https://media.giphy.com/media/HQHwvSBSy7s0AXOlWt/giphy.gi](https://tenor.com/bQ7vO.gif)f" width="200"/>
+</div>
+
 ## 🎓 Education
 
 - **Network Systems Administration** 🌐
@@ -24,6 +28,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=kapiuri&icon=8&color=1)](https://visitcount.itsvg.in)
-
-## Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=condorcoders&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
