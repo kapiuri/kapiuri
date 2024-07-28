@@ -1,6 +1,6 @@
 # 👾 Welcome to My GitHub Profile👾
 
-<div class="tenor-gif-embed" data-postid="25014250" data-share-method="host" data-aspect-ratio="1.38528" data-width="100%"><a href="https://tenor.com/view/ghostemane-gif-25014250">Ghostemane GIF</a>from <a href="https://tenor.com/search/ghostemane-gifs">Ghostemane GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+![ghost-ghostemane](https://github.com/user-attachments/assets/35e760c6-8f82-4ee0-842f-0a16cf7c9cb9)
 
 ## 🎓 Education
 
