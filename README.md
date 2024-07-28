@@ -1,12 +1,5 @@
 # 👾 Welcome to My GitHub Profile👾
 
-![ghostemane](https://github.com/user-attachments/assets/8d5e0eab-a33a-4272-b201-2d4aca990548)
-![ghost-ghostemane](https://github.com/user-attachments/assets/35e760c6-8f82-4ee0-842f-0a16cf7c9cb9)
-![68428208209334e1c284e26ff67c822e](https://github.com/user-attachments/assets/74dc1f30-97ff-431e-824a-0698ab16454f)
-![tumblr_3096a985392c051d0a15e96fb0b13544_e06ce597_400](https://github.com/user-attachments/assets/a4262f5e-2003-4273-8a18-fb9fea0d04fb)
-
-
-
 
 
 ## 🎓 Education
