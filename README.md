@@ -1,6 +1,6 @@
 # 👾 Welcome to My GitHub Profile👾
 
-
+![ghostemane](https://github.com/user-attachments/assets/8d5e0eab-a33a-4272-b201-2d4aca990548)
 ![ghost-ghostemane](https://github.com/user-attachments/assets/35e760c6-8f82-4ee0-842f-0a16cf7c9cb9)
 
 ## 🎓 Education
