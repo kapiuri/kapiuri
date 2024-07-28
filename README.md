@@ -1,8 +1,9 @@
 # 👾 Welcome to My GitHub Profile👾
 
 ![89e083ff9f21f4d54899e602034c007f](https://github.com/user-attachments/assets/53ff6a81-3e52-4496-9a13-ffc80f670b05)
+![8ee04d1dd352e1395cd1134986f48cf9abae1e52_00 (1)](https://github.com/user-attachments/assets/bb99fd06-3ee8-4d5d-87eb-339408efaac5)
 
-![8ee04d1dd352e1395cd1134986f48cf9abae1e52_00](https://github.com/user-attachments/assets/bd44c410-7114-4b9d-968e-977d1318d2c4)
+
 
 
 ## 🎓 Education
