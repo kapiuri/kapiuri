@@ -1,5 +1,5 @@
 # 👾 Welcome to My GitHub Profile👾
-![Alt Text]([[https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://tenor.com/bQ7vO.gif](https://tenor.com/es/view/ghostemane-gif-25014250)))
+
 ## 🎓 Education
 
 - **Network Systems Administration** 🌐
