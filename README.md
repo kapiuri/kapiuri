@@ -1,9 +1,9 @@
 # 👾 Welcome to My GitHub Profile👾
 
-![1](https://github.com/user-attachments/assets/d25550d0-e384-4e54-87b1-6c86a91416d3)
-![2](https://github.com/user-attachments/assets/1fcb0768-b3be-40f8-8efb-82e41c59e3b2)
-![3](https://github.com/user-attachments/assets/1d8f5df0-992e-4997-8424-4a1c2a4106a2)
-![4](https://github.com/user-attachments/assets/c064a3a1-7450-4838-b598-74fb41fdfb87)
+![1](https://github.com/user-attachments/assets/66e696c0-c08d-4368-aa43-f0164021752b)
+![2](https://github.com/user-attachments/assets/659f38b4-e393-4f3f-a744-a86e450a030e)
+![3](https://github.com/user-attachments/assets/53e2b66c-7742-45a1-b828-fd30e29bbd93)
+![4](https://github.com/user-attachments/assets/b442ce78-9eb5-4d5a-a708-d372a322594d)
 
 
 ## 🎓 Education
