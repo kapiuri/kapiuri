@@ -6,17 +6,17 @@
 ![4](https://github.com/user-attachments/assets/f1c176f6-3cba-463a-9dc0-3db51235fcd9)
 
 
-## 🎓 Education
+## 🎓 Estudios
 
-- **Network Systems Administration** 🌐
-- **Microcomputer Systems and Networks** 💻
+- **Administración de Sistemas Informaticos en Red** 🌐
+- **Sistemas Microinformáticos y Redes** 💻
 
-## 🌐 Socials:
+## 🌐 REdes sociales:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pablo_kappa) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kapiuri) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/kapiuri) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/capiuri) [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/pablo_kappa.svg?style=social&label=Twitter)](https://x.com/pablo_kappa)
 
  
 
-## 🌐 My Website
+## 🌐 Pagina WEB
 
 - 🌍 [kapiuri.github.io](https://kapiuri.github.io)
 
